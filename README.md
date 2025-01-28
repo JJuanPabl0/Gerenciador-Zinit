@@ -17,3 +17,7 @@ Ele permite que você *gerencie plugins, temas e scripts de forma eficiente, car
 
 ### Como instalar o Zinit?
 
+- Instalar via terminal: Cole esse comando no seu terminal para fazer a instalação do Zinit
+
+        bash -c "$(curl -fsSL https://git.io/zinit-install)"
+
