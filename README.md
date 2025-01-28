@@ -40,7 +40,7 @@ Caso esteja em duvida se instalou o zinit, digite o comando para analisar todos 
 ---
 Procure por esse bloco nas configurações do zshrc:
 
-![Visualizar](confignano.jpeg)
+![Visualizar](Mídia/confignano.jpeg)
 
 Se consegue visualizar esse bloco de código, siginica que deu certo a instalação. Após a frase "End of Zinit's installer chunk" é onde irá adicionar seus pluggins.
 
