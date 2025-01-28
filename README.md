@@ -1,1 +1,1 @@
-# Gerenciador-Zinit
+# Zinit: Gerenciador de Plugins para Zsh
