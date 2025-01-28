@@ -31,3 +31,6 @@ Caso esteja em duvida se instalou o zinit, digite o comando para analisar todos 
 
         ls -la
 
+- Procure por esse bloco nas configurações do zshrc:
+
+![Visualizar](confignano.jpeg)
